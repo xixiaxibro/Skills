@@ -1,0 +1,4 @@
+interface:
+  display_name: "Journal Workflow"
+  short_description: "Turn reflections into structured entries and mood visuals."
+  default_prompt: "Organize my raw reflection into today's journal and refresh the offline visual board."
