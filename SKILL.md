@@ -1,6 +1,6 @@
 ---
 name: journal-workflow
-description: Capture, structure, and present personal journal reflections as reusable Markdown entries plus an offline visual mood board. Use when the user asks to record daily insights, organize raw thoughts, preserve emotional context, generate next actions, or refresh/open local journal visualization files.
+description: Capture, structure, and present personal journal reflections as reusable Markdown entries plus an offline visual mood board. Use when the user asks to record daily insights, organize raw thoughts, preserve emotional context, generate next actions, refresh/open local journal visualization files, or when the prompt starts with `jn:`.
 ---
 
 # Journal Workflow
